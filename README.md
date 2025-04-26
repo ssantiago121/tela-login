@@ -27,4 +27,4 @@ Este projeto é um exemplo de página de formulário de login simples, feito com
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/ssantiago121/tela-login
+   git clone https://github.com/ssantiago121/tela-login.git
